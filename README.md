@@ -1,0 +1,2 @@
+Hey, baby programmers! After running this code in your MATLAB workspace, you will get the cutest little love letter envelope ever. I love experimenting with drawings and shapes while learning how to code (since I'm a beginner), so I made this adorable drawing and decided to share it with you.
+Feel free to adjust it in any way you like, let me know if I should make any changes or add more details in my version of code. ♡
